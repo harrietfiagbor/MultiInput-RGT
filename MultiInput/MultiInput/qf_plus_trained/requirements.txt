@@ -1,0 +1,9 @@
+tsai==0.2.22
+boto3==1.18.18
+neptune-client[fastai]==0.10.1
+neptune-client[optuna]==0.10.1
+openpyxl==3.0.7
+scipy==1.7.0
+optuna==2.9.1
+psycopg2-binary==2.9.1
+jsonschema==3.2.0
